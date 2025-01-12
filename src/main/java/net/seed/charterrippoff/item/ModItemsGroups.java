@@ -8,6 +8,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.seed.charterrippoff.CharterRippoff;
+import net.seed.charterrippoff.block.ModBlocks;
 
 public class ModItemsGroups {
     public static final ItemGroup CHARTER_GROUP = Registry.register(Registries.ITEM_GROUP,
@@ -17,7 +18,7 @@ public class ModItemsGroups {
                         entries.add(ModItems.HIGHERDIVINITY);
                         entries.add(ModItems.RAW_HIGHERDIVINITY);
 
-
+                        entries.add(ModBlocks.DIVINE_GOLD_BLOCK);
 
                     }).build());
 
