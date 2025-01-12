@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "charter-rippoff",
+	"version": "${version}",
+	"name": "Charter Rippoff",
+	"description": "A bad mod made by SEED",
+	"authors": [
+		"Seed"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/charter-rippoff/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.seed.charterrippoff.CharterRippoff"
+		],
+		"client": [
+			"net.seed.charterrippoff.CharterRippoffClient"
+		],
+		"fabric-datagen": [
+			"net.seed.charterrippoff.CharterRippoffDataGenerator"
+		]
+	},
+	"mixins": [
+		"charter-rippoff.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
