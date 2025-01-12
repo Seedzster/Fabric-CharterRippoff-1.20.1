@@ -1,3 +1,6 @@
 {
-  "item.CharterRippoff.higherdivinity": "Higher Divinity"
+  "item.CharterRippoff.higherdivinity": "Higher Divinity",
+  "item.CharterRippoff.raw_higherdivinity": "Raw Higher Divinity",
+
+  "itemgroup.higherdivinity": "Charter Group"
 }
