@@ -2,6 +2,7 @@ package net.seed.charterrippoff;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.seed.charterrippoff.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,5 +13,6 @@ public class CharterRippoff implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItems.registerModItems();
 	}
 }
