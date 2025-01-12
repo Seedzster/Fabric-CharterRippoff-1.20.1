@@ -11,6 +11,6 @@ public class CharterRippoff implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-x
+
 	}
 }
