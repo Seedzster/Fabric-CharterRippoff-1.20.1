@@ -19,6 +19,7 @@ public class ModItemsGroups {
                         entries.add(ModItems.RAW_HIGHERDIVINITY);
 
                         entries.add(ModBlocks.DIVINE_GOLD_BLOCK);
+                        entries.add(ModBlocks.METAL_BLOCK);
 
                     }).build());
 
