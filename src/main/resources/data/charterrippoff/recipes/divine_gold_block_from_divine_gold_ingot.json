@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "charterrippoff:divine_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "charterrippoff:divine_gold_block"
+  }
+}
