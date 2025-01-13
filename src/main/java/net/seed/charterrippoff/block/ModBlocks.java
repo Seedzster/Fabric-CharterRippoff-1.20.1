@@ -15,8 +15,8 @@ import net.seed.charterrippoff.CharterRippoff;
 public class ModBlocks {
     public static final Block DIVINE_GOLD_BLOCK = registerBlock("divine_gold_block",
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
-    public static final Block METAL_BLOCK = registerBlock("metal_block")
-            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.ANVIL)));
+    public static final Block METAL_BLOCK = registerBlock("metal_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
 
 
 

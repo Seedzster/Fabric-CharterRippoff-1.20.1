@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "charterrippoff:metal_ingot"
+    }
+  },
+  "result": {
+    "item": "charterrippoff:metal_block"
+  }
+}

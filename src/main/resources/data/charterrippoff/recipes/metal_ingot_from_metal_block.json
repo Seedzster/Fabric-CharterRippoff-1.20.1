@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "catergory": "building",
+  "ingredients": [
+    {
+      "item": "charterrippoff:metal_block"
+    }
+  ],
+  "result": {
+    "item": "charterrippoff:metal_ingot",
+    "count": 9
+  }
+}

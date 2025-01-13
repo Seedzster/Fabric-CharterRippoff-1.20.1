@@ -1,9 +1,10 @@
 {
   "item.charterrippoff.higherdivinity": "Higher Divinity",
   "item.charterrippoff.raw_higherdivinity": "Raw Higher Divinity",
+  "item.charterrippoff.metal_ingot": "Metal Ingot",
 
   "block.charterrippoff.divine_gold_block": "Divine Gold Block",
   "block.charterrippoff.metal_block": "Metal Block",
 
-  "itemgroup.charterrippoff": "Charter Rippoff"
+  "itemgroup.charterrippoff": "Gilded Divinity"
 }

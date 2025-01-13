@@ -14,10 +14,12 @@ import net.seed.charterrippoff.CharterRippoffClient;
 public class ModItems {
     public static final Item HIGHERDIVINITY = registerItem("higherdivinity", new Item(new FabricItemSettings()));
     public static final Item RAW_HIGHERDIVINITY = registerItem("raw_higherdivinity", new Item(new FabricItemSettings()));
+    public static final Item METAL_INGOT = registerItem("metal_ingot", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(HIGHERDIVINITY);
         entries.add(RAW_HIGHERDIVINITY);
+        entries.add(METAL_INGOT);
     }
 
 
