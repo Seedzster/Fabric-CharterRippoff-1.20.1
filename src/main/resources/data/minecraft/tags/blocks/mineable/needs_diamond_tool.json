@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "charterrippoff:divine_gold_block"
+    "charterrippoff:divine_gold_block",
+    "charterrippoff:metal_block"
   ]
 }
