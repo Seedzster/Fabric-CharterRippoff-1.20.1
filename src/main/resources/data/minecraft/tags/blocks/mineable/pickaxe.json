@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
     "charterrippoff:divine_gold_block",
+    "charterrippoff:deepslate_divine_gold_block",
+    "charterrippoff:nether_divine_gold_block",
+    "charterrippoff:end_stone_divine_gold_block",
     "charterrippoff:metal_block"
   ]
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "charterrippoff:block/end_stone_divine_gold_ore"
+  }
+}

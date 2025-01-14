@@ -8,7 +8,6 @@ import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
-import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.seed.charterrippoff.CharterRippoff;
 
@@ -17,6 +16,12 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
     public static final Block METAL_BLOCK = registerBlock("metal_block",
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
+    public static final Block DEEPSLATE_DIVINE_GOLD_ORE = registerBlock("deepslate_divine_gold_ore",
+            new Block(FabricBlockSettings.copyOf(Blocks.DEEPSLATE)));
+    public static final Block NETHER_DIVINE_GOLD_ORE = registerBlock("nether_divine_gold_ore",
+            new Block(FabricBlockSettings.copyOf(Blocks.NETHER_GOLD_ORE)));
+    public static final Block END_STONE_DIVINE_GOLD_ORE = registerBlock("end_stone_divine_gold_ore",
+            new Block(FabricBlockSettings.copyOf(Blocks.END_STONE)));
 
 
 
