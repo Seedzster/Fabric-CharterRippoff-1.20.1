@@ -11,10 +11,10 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "charterrippoff:metal_block"
+          "name": "charterrippoff:divine_gold_block"
         }
       ],
       "rolls": 1.0
-        }
-      ]
     }
+  ]
+}
